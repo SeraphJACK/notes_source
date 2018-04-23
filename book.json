@@ -1,0 +1,14 @@
+{
+    "author": "SeraphJACK <seraphjack@outlook.com>",
+    "description": "随手写的笔记",
+	"language" : "zh-hans",
+    "links": {
+        "sidebar": {
+            "SeraphJACK's Blog": "https://blog.seraphjack.top/"
+        }
+    },
+    "plugins": [
+		"katex"
+	],
+    "title": "笔记"
+}
