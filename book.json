@@ -8,7 +8,7 @@
         }
     },
     "plugins": [
-		"katex"
+		"mathjax"
 	],
     "title": "笔记"
 }
