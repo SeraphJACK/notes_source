@@ -10,6 +10,7 @@
 	* [1.1.5 an与Sn的关系](math/series/ansn.md)
   * 1.2 不等式
     * [1.2.1 不等式的求解](math/bds/bdsqj.md)
+	* [1.2.2 基本不等式](math/bds/jbbds.md)
 * 2 化学部分
   * 2.2 必修2
     * [2.2.3 化学反应速率](chem/bxii/hxfysl.md)
