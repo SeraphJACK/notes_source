@@ -6,13 +6,13 @@
 
 ① $$a_{n+1}-a_n=b_n$$
 
-② 带入n=1,2,\cdots,n
+② 带入$$n=1,2,\cdots,n$$
 
 ​	$$a_2-a_1=b_1$$
 
 ​	$$a_3-a_2=b_2$$
 
-​		\cdots\cdots
+​	$$\cdots\cdots$$
 
 ​	$$a_{n+1}-a_n=b_n$$
 
@@ -34,11 +34,11 @@
 
 ​	$$\frac{a_3}{a_2}=\frac{f(2+k)}{f(2)}$$
 
-​		\cdots
+​		$$\cdots$$
 
-② $$\Pi_左=\Pi_右$$
+② $$\Pi左=\Pi右$$
 
-=>$$\frac{a_{n+1}}{a_1}=M_n$$
+$$\Rightarrow \frac{a_{n+1}}{a_1}=M_n$$
 
 ③换元，得
 
@@ -52,15 +52,15 @@ $$a_n=a_1(M_{n-1})$$
 
 $$a_{n+1}+x=k(a_n+x)$$
 
-=>$$a_{n+1}=ka_n+(k-1)x$$
+$$\Rightarrow a_{n+1}=ka_n+(k-1)x$$
 
-=>$$(k-1)x=C$$
+$$\Rightarrow (k-1)x=C$$
 
-=>$$x=\frac{k-1}{C}$$
+$$\Rightarrow x=\frac{k-1}{C}$$
 
 设$$b_n=a_n+x$$
 
-=>$$b_{n+1}=kb_n$$
+$$\Rightarrow b_{n+1}=kb_n$$
 
 这样，$$\{b_n\}​$$就是一个等比数列了，之后我们就可以用等比数列的方法求出$$\{b_n\}​$$的通项公式，之后再求出$$\{a_n\}​$$的通项公式。
 
@@ -78,7 +78,7 @@ $$
 
 $$a_n=g^{-1}(b_n)$$
 
-=>$$g^{-1}(b_{n+1})=f(g^{-1}(b_n))$$
+$$\Rightarrow g^{-1}(b_{n+1})=f(g^{-1}(b_n))$$
 
 之后便可以求出$$b_n$$和$$a_n$$了。
 
@@ -96,7 +96,7 @@ $$a_n=g^{-1}(b_n)$$
 
 $$\frac{a_{n+1}}{k^{n+1}}=\frac{a_n}{k^n}+\frac \lambda k$$
 
-=>$$b_{n+1}=b_n+\frac \lambda k$$
+$$\Rightarrow b_{n+1}=b_n+\frac \lambda k$$
 
 ### 6、倒数构造
 
@@ -110,7 +110,7 @@ $$\frac1{a_{n+1}}=\frac {k^`a_n+b}{ka_n}$$
 
 令$$b_n=\frac1{a_n}$$
 
-=>$$b_{n+1}=\frac k {k^`}b_n+\frac bk$$
+$$\Rightarrow b_{n+1}=\frac k {k^`}b_n+\frac bk$$
 
 之后用待定常数法求出$$b_n$$再求出$$a_n$$就可以了。
 
