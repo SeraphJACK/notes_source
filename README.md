@@ -1,3 +1,5 @@
 # 序言
 
-只是简单的学习笔记，可能是给自己以后翻翻，也可能可以给他人借鉴吧。
+简单的笔记。
+
+Hosted by **[Coding Pages](https://pages.coding.me)**

@@ -138,4 +138,4 @@ $$f(n)\to 一次函数\ kn+b$$
 
 ​		$$指数函数\ \lambda k^n\ (与f(n)底数一致)$$
 
-=>$$\begin{cases}b_{n+1}=a_{n+1}+g(n+1)\\b_n=a_n+g(n)\end{cases}\to b_{n+1}=kb_n$$
+$$\Rightarrow \begin{cases}b_{n+1}=a_{n+1}+g(n+1)\\b_n=a_n+g(n)\end{cases}\to b_{n+1}=kb_n$$
