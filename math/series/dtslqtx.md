@@ -34,7 +34,7 @@ $$\frac{a_2}{a_1}=\frac{f(1+k)}{f(1)}$$
 
 $$\frac{a_3}{a_2}=\frac{f(2+k)}{f(2)}$$
 
-            $$\cdots$$
+$$\cdots$$
 
 ② $$\Pi$$左=$$\Pi$$右
 
