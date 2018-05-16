@@ -91,6 +91,6 @@ $$\Rightarrow\left(\sqrt{\frac{k_1}cx}\right)^2+\left(\sqrt{\frac{k_2}c}y\right)
 
 $$\Rightarrow\begin{cases}\sqrt{\frac{k_1}c}x=\cos\theta\\\sqrt{\frac{k_2}c}y=\sin\theta\end{cases}$$
 
-之后利用辅助角公式解除范围即可。
+之后再利用辅助角公式解出范围即可。
 
 **注：注意 $$\theta$$ 的范围。**
