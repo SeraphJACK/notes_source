@@ -8,7 +8,7 @@
         }
     },
     "plugins": [
-		"mathjax"
+		"katex"
 	],
     "title": "notes"
 }
