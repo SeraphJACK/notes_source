@@ -10,4 +10,5 @@ git add .
 git commit -m"Update"
 git push
 
+rm ./_book/deploy.sh
 cp ./_book/* ../seraphjack.coding.me/ -r
