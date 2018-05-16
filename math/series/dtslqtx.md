@@ -8,17 +8,17 @@
 
 ② 带入$$n=1,2,\cdots,n$$
 
-	$$a_2-a_1=b_1$$
+$$a_2-a_1=b_1$$
 
-	$$a_3-a_2=b_2$$
+$$a_3-a_2=b_2$$
 
-	$$\cdots\cdots$$
+$$\cdots\cdots$$
 
-	$$a_{n+1}-a_n=b_n$$
+$$a_{n+1}-a_n=b_n$$
 
 ③$$\sum$$左边=$$\sum$$右边
 
-	设$$\sum{b_n}=T_n$$
+设$$\sum{b_n}=T_n$$
 
 => $$a_{n+1}=a_1+T_n$$
 
@@ -30,11 +30,11 @@
 
 ①带入$$n=1,2,\cdots,n$$
 
-	$$\frac{a_2}{a_1}=\frac{f(1+k)}{f(1)}$$
+$$\frac{a_2}{a_1}=\frac{f(1+k)}{f(1)}$$
 
-	$$\frac{a_3}{a_2}=\frac{f(2+k)}{f(2)}$$
+$$\frac{a_3}{a_2}=\frac{f(2+k)}{f(2)}$$
 
-		$$\cdots$$
+            $$\cdots$$
 
 ② $$\Pi$$左=$$\Pi$$右
 
