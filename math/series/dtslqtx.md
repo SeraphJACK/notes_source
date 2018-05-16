@@ -66,7 +66,7 @@ $$\Rightarrow b_{n+1}=kb_n$$
 
 ### 4、已知构造求通项
 已知：
-$$\begin{cases}a_{n+1}=f(a_n)\\b_n=g(a_n)\\\end{cases}(\{b_n\})$$是中间数列
+$$\begin{cases}a_{n+1}=f(a_n)\\b_n=g(a_n)\end{cases}(\{b_n\})$$是中间数列
 
 ##### 1、反表示法
 
@@ -128,8 +128,8 @@ $$\frac {k_1}{a_{n+1}}+k_2+\frac {k_3}{a_n}=0$$
 
 $$f(n)\to$$ 一次函数$$kn+b$$
 
-		二次函数 $$an^2+bn+c$$
+二次函数 $$an^2+bn+c$$
 
-		指数函数 $$\lambda k^n$$(与f(n)底数一致)
+指数函数 $$\lambda k^n$$(与f(n)底数一致)
 
 $$\Rightarrow \begin{cases}b_{n+1}=a_{n+1}+g(n+1)\\b_n=a_n+g(n)\end{cases}\to b_{n+1}=kb_n$$
