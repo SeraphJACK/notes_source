@@ -36,7 +36,7 @@ $$\Rightarrow \frac{k_1x}c+\frac{k_2y}c=1$$
 $$\Rightarrow$$原式$$=(\frac{k_1k_3}c+\frac{k_2k_4}c)(\frac{k_1x}c+\frac{k_2y}c)$$
 $$=\frac{k_1k_3}c+\frac{k_2k_4}c+\frac{k_2k_3}c\frac yx+\frac{k_1k_4}c\frac xy$$
 
-之后对后两项应用基本不等式求出范围即可。
+之后再对后两项应用基本不等式求出范围即可。
 
 (b)已知$$\frac{k_1}x+\frac{k_2}y=c$$，求$$k_3x+k_4y$$的最小值
 
