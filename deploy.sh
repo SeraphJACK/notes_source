@@ -14,4 +14,7 @@ rm ./_book/deploy.sh
 rm ./_book/bash.exe.stackdump
 cp ./_book/* ../seraphjack.coding.me/ -r
 
-../seraphjack.coding.me/deploy.sh
+cd ../seraphjack.coding.me/
+git add .
+git commit -m"Site Update"
+git push
