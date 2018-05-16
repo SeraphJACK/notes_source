@@ -93,4 +93,4 @@ $$\Rightarrow\begin{cases}\sqrt{\frac{k_1}c}x=\cos\theta\\\sqrt{\frac{k_2}c}y=\s
 
 之后利用辅助角公式解除范围即可。
 
-**注：注意 $$\theta$$ 的范围。
+**注：注意 $$\theta$$ 的范围。**
