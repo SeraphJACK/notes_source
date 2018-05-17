@@ -8,17 +8,17 @@
 
 ② 带入$$n=1,2,\cdots,n$$
 
-	$$a_2-a_1=b_1$$
+$$a_2-a_1=b_1$$
 
-	$$a_3-a_2=b_2$$
+$$a_3-a_2=b_2$$
 
-	$$\cdots\cdots$$
+$$\cdots\cdots$$
 
-	$$a_{n+1}-a_n=b_n$$
+$$a_{n+1}-a_n=b_n$$
 
 ③$$\sum$$左边=$$\sum$$右边
 
-	设$$\sum{b_n}=T_n$$
+设$$\sum{b_n}=T_n$$
 
 => $$a_{n+1}=a_1+T_n$$
 
@@ -30,11 +30,11 @@
 
 ①带入$$n=1,2,\cdots,n$$
 
-	$$\frac{a_2}{a_1}=\frac{f(1+k)}{f(1)}$$
+$$\frac{a_2}{a_1}=\frac{f(1+k)}{f(1)}$$
 
-	$$\frac{a_3}{a_2}=\frac{f(2+k)}{f(2)}$$
+$$\frac{a_3}{a_2}=\frac{f(2+k)}{f(2)}$$
 
-		$$\cdots$$
+$$\cdots$$
 
 ② $$\Pi$$左=$$\Pi$$右
 
@@ -66,7 +66,7 @@ $$\Rightarrow b_{n+1}=kb_n$$
 
 ### 4、已知构造求通项
 已知：
-$$\begin{cases}a_{n+1}=f(a_n)\\b_n=g(a_n)\\\end{cases}(\{b_n\})$$是中间数列
+$$\begin{cases}a_{n+1}=f(a_n)\\b_n=g(a_n)\end{cases}(\{b_n\})$$是中间数列
 
 ##### 1、反表示法
 
@@ -128,8 +128,8 @@ $$\frac {k_1}{a_{n+1}}+k_2+\frac {k_3}{a_n}=0$$
 
 $$f(n)\to$$ 一次函数$$kn+b$$
 
-		二次函数 $$an^2+bn+c$$
+二次函数 $$an^2+bn+c$$
 
-		指数函数 $$\lambda k^n$$(与f(n)底数一致)
+指数函数 $$\lambda k^n$$(与f(n)底数一致)
 
 $$\Rightarrow \begin{cases}b_{n+1}=a_{n+1}+g(n+1)\\b_n=a_n+g(n)\end{cases}\to b_{n+1}=kb_n$$
