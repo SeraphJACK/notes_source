@@ -87,7 +87,7 @@ $$\frac{a+b}2\ge\sqrt{ab}$$一式可以联立和式和积式。
 
 $$\Rightarrow \frac{k_1}cx^2+\frac{k_2}cy^2=1$$
 
-$$\Rightarrow\left(\sqrt{\frac{k_1}cx}\right)^2+\left(\sqrt{\frac{k_2}c}y\right)^2=1$$
+$$\Rightarrow\left(\sqrt{\frac{k_1}c}x\right)^2+\left(\sqrt{\frac{k_2}c}y\right)^2=1$$
 
 $$\Rightarrow\begin{cases}\sqrt{\frac{k_1}c}x=\cos\theta\\\sqrt{\frac{k_2}c}y=\sin\theta\end{cases}$$
 
