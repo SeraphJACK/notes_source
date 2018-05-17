@@ -1,5 +1,7 @@
 #!/bin/sh
 gitbook build
+
+read -n 1
 rm -rf /s /q ../seraphjack.coding.me/chem
 rm -rf /s /q ../seraphjack.coding.me/math
 rm -rf /s /q ../seraphjack.coding.me/gitbook
@@ -11,6 +13,8 @@ git add .
 git commit -m"Update"
 git push
 
+read -n 1
+
 rm ./_book/deploy.sh
 rm ./_book/bash.exe.stackdump
 cp ./_book/* ../seraphjack.coding.me/ -r
@@ -20,3 +24,5 @@ git pull
 git add .
 git commit -m"Site Update"
 git push
+
+read -n 1
