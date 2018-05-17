@@ -1,6 +1,7 @@
 #!/bin/sh
 gitbook build
 
+echo Press any key to continue...
 read -n 1
 rm -rf /s /q ../seraphjack.coding.me/chem
 rm -rf /s /q ../seraphjack.coding.me/math
@@ -13,6 +14,7 @@ git add .
 git commit -m"Update"
 git push
 
+echo Press any key to continue...
 read -n 1
 
 rm ./_book/deploy.sh
@@ -25,4 +27,5 @@ git add .
 git commit -m"Site Update"
 git push
 
+echo Press any key to continue...
 read -n 1
