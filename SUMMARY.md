@@ -1,6 +1,5 @@
 # Summary
 * [0 序言](README.md)
-
 * 1 数学部分
   * 1.1 数列
     * [1.1.1 等差数列](math/series/dcsl.md)
@@ -14,3 +13,6 @@
 * 2 化学部分
   * 2.2 必修2
     * [2.2.3 化学反应速率](chem/bxii/hxfysl.md)
+* 研究性学习
+  * [感想](yjxxxgx.md)
+
