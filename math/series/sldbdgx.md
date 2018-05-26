@@ -14,7 +14,7 @@ $$min\begin{cases}a_n\le a_{n+1}\\a_n\le a_{n-1}\end{cases}$$
 
 (a) 临界法
 
-$$\begin{cases}a_1>0\uparrow\to S_n max\begin{cases}a_n\ge0\\a_{n+1}\le0\end{cases}n\in N^*\\a_1<0\downarrow\to S_n min\begin{cases}a_n\le0\\a_{n+1}\ge0\end{cases}n\in N^*\end{cases}$$
+$$\begin{cases}a_1>0\downarrow\to S_n max\begin{cases}a_n\ge0\\a_{n+1}\le0\end{cases}n\in N^*\\a_1<0\uparrow\to S_n min\begin{cases}a_n\le0\\a_{n+1}\ge0\end{cases}n\in N^*\end{cases}$$
 
 (b)函数法
 
