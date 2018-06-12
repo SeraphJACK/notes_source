@@ -8,6 +8,7 @@
 	* [1.1.4 数列求和](math/series/slqh.md)
 	* [1.1.5 an与Sn的关系](math/series/ansn.md)
 	* [1.1.6 数列的不等关系](math/series/sldbdgx.md)
+	* [1.1.7 数列的放缩法](math/series/sldfsf.md)
   * 1.2 不等式
     * [1.2.1 不等式的求解](math/bds/bdsqj.md)
 	* [1.2.2 基本不等式](math/bds/jbbds.md)
