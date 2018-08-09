@@ -16,17 +16,17 @@ $$\begin{cases}\frac{y_2-y_1}{x_2-x_1}=-\frac1k\\ \frac{y_1+y_2}2=k\frac{x_1=x_2
 
 两条直线要关于一点对称，首先要满足两条直线平行，其次只要两条直线上有一对点关于该点对称即可，即：
 
-$$\begin{cases}l_1//l_2\\ \exist A\in l_1 | A'\in l_2\end{cases}$$
+$$\begin{cases}l_1//l_2\\ \exists A\in l_1 | A'\in l_2\end{cases}$$
 
 ##### 4.两条直线关于一直线对称
 
 两条直线关于一直线对称有两种情况：
 
 * 三条直线全部平行
-  * $$\begin{cases}k_1=k_2=k_3\\ \exist A\in l_1 | A'\in l_2\end{cases}$$
+  * $$\begin{cases}k_1=k_2=k_3\\ \exists A\in l_1 | A'\in l_2\end{cases}$$
 
 * 三条直线交于一点
-  * $$\begin{cases}P\in l_1,l_2,l_3\\ \exist A\in l_1 | A'\in l_2\end{cases}$$
+  * $$\begin{cases}P\in l_1,l_2,l_3\\ \exists A\in l_1 | A'\in l_2\end{cases}$$
 
 **特例：如果对称直线为 $$y=x$$ ，则直线方程的反函数即为其关于 $$y=x$$ 对称直线的方程**
 
@@ -42,7 +42,7 @@ $$\tan\theta=\frac{k_2-k_1}{1+k_1k_2}$$
 
 因为两条直线关于直线 $$l$$ 满足直线 $$l$$ 为两条直线的角平分线，于是可以通过到角公式列出等量关系。
 
-即通过 $$\begin{cases}\exist P\in l_1,l,l_2\\ \frac{k_1-k}{1+k_1k}=\frac{k-k_2}{1+kk_2}\end{cases}$$ 即可求出对称直线方程。
+即通过 $$\begin{cases}\exists P\in l_1,l,l_2\\ \frac{k_1-k}{1+k_1k}=\frac{k-k_2}{1+kk_2}\end{cases}$$ 即可求出对称直线方程。
 
 ---
 
@@ -61,4 +61,4 @@ $$\tan\theta=\frac{k_2-k_1}{1+k_1k_2}$$
 最值问题的解决思路并不难，只需要铭记以下两点即可：
 
 * 两点之间线段最短
-* 三角形两边之和大于第三边，两边之差小鱼第三边
+* 三角形两边之和大于第三边，两边之差小于第三边
