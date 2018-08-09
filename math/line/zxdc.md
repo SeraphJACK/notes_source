@@ -10,7 +10,7 @@ $$\begin{cases}x_0=\frac{x_1-x_2}2\\y_0=\frac{y_1+y_2}2\end{cases}$$
 
 要让点 $$A(x_1,y_1)$$ 与点 $$B(x_2,y_2)$$ 关于直线 $$y=kx+b$$ 对称，只需直线为两点连线线段的中垂线即可，即：
 
-$$\begin{cases}\frac{y_2-y_1}{x_2-x_1}=-\frac1k\\ \frac{y_1+y_2}2=k\frac{x_1=x_2}2+b\end{cases}$$
+$$\begin{cases}\frac{y_2-y_1}{x_2-x_1}=-\frac1k\\ \frac{y_1+y_2}2=k\frac{x_1+x_2}2+b\end{cases}$$
 
 ##### 3.两条直线关于一点对称
 
