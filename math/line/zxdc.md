@@ -4,7 +4,7 @@
 
 要让点 $$A(x_1,y_1)$$ 与点 $$B(x_2,y_2)$$ 关于点 $$P(x_0,y_0)$$ 对称，不难想象，只需要点 $$P$$ 为线段 $$AB$$ 的中点即可，即：
 
-$$\begin{cases}x_0=\frac{x_1=x_2}2\\y_0=\frac{y_1+y_2}2\end{cases}$$
+$$\begin{cases}x_0=\frac{x_1-x_2}2\\y_0=\frac{y_1+y_2}2\end{cases}$$
 
 ##### 2.两点关于直线对称
 
