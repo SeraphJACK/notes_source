@@ -9,7 +9,12 @@
     },
     "plugins": [
 		"katex",
-		"mermaid"
+		"flow"
 	],
+	"pluginsConfig": {
+		"flow": {
+			"line-color": "red"
+		}
+	},
     "title": "notes"
 }
