@@ -19,7 +19,7 @@
   * 2.2 必修2
     * [2.2.3 化学反应速率](chem/bxii/hxfysl.md)
 * 3 生物部分
-  * 循环系统
-	* [心脏的泵血功能](biology/xhxt/xzdbxgn.md)
-	* [心脏的电生理](biology/xhxt/xzdsl.md)
-	* [血管生理](biology/xhxt/xgsl.md)
+  * 3.1 循环系统
+	* [3.1.1 心脏的泵血功能](biology/xhxt/xzdbxgn.md)
+	* [3.1.2 心脏的电生理](biology/xhxt/xzdsl.md)
+	* [3.1.3 血管生理](biology/xhxt/xgsl.md)
