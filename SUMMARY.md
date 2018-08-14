@@ -22,3 +22,4 @@
   * 循环系统
 	* [心脏的泵血功能](biology/xhxt/xzdbxgn.md)
 	* [心脏的电生理](biology/xhxt/xzdsl.md)
+	* [血管生理](biology/xhxt/xgsl.md)
