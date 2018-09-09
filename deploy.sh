@@ -18,7 +18,7 @@ git push
 #read -n 1
 
 rm ./_book/deploy.sh>/dev/null
-rm ./_book/bash.exe.stackdump>/dev/null
+#rm ./_book/bash.exe.stackdump>/dev/null
 cp ./_book/* ../seraphjack.coding.me/ -r
 
 cd ../seraphjack.coding.me/
