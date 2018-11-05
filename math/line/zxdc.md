@@ -16,17 +16,17 @@ $$\begin{cases}\frac{y_2-y_1}{x_2-x_1}=-\frac1k\\ \frac{y_1+y_2}2=k\frac{x_1+x_2
 
 两条直线要关于一点对称，首先要满足两条直线平行，其次只要两条直线上有一对点关于该点对称即可，即：
 
-$$\begin{cases}l_1//l_2\\ \exists A\in l_1 | A'\in l_2\end{cases}$$
+$$\begin{cases}l_1//l_2\\ \exists A\in l_1 , A'\in l_2\end{cases}$$
 
 ##### 4.两条直线关于一直线对称
 
 两条直线关于一直线对称有两种情况：
 
 * 三条直线全部平行
-  * $$\begin{cases}k_1=k_2=k_3\\ \exists A\in l_1 | A'\in l_2\end{cases}$$
+  * $$\begin{cases}k_1=k_2=k_3\\ \exists A\in l_1 , A'\in l_2\end{cases}$$
 
 * 三条直线交于一点
-  * $$\begin{cases}P\in l_1,l_2,l_3\\ \exists A\in l_1 | A'\in l_2\end{cases}$$
+  * $$\begin{cases}P\in l_1,l_2,l_3\\ \exists A\in l_1 , A'\in l_2\end{cases}$$
 
 **特例：如果对称直线为 $$y=x$$ ，则直线方程的反函数即为其关于 $$y=x$$ 对称直线的方程**
 
