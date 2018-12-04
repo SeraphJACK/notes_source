@@ -17,6 +17,8 @@
 	* [2.1.2 直线中的对称](math/line/zxdc.md)
   * 3.1 圆
     * [3.1.1 圆的方程](math/circle/circle.md)
+  * 3.2 圆锥曲线
+    * [3.2.1 曲线与轨迹](math/yzqx/guiji.md)
 * 2 化学部分
   * 2.2 必修2
     * [2.2.3 化学反应速率](chem/bxii/hxfysl.md)
