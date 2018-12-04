@@ -25,6 +25,7 @@ if [ $? -eq 0 ]; then
     git commit -m"Site Update" >/dev/null 2>&1
     git push
 else
+	#Build Failed
     echo "Gitbook build failed"
     exit 1
 fi
