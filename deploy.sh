@@ -1,7 +1,9 @@
 #!/bin/sh
 
+#Build Gitbook
 gitbook install && gitbook build
 
+#Deploy
 if [ $? -eq 0 ]; then
     rm -rf ../seraphjack.coding.me/chem>/dev/null 2>&1
     rm -rf ../seraphjack.coding.me/math>/dev/null 2>&1
