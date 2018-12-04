@@ -1,5 +1,6 @@
 #!/bin/sh
-gitbook build
+
+gitbook install && gitbook build
 
 if [ $? -eq 0 ]; then
     rm -rf ../seraphjack.coding.me/chem>/dev/null 2>&1
