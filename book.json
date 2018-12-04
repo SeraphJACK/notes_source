@@ -8,8 +8,7 @@
         }
     },
     "plugins": [
-		"katex",
-		"flow"
+		"katex"
 	],
 	"pluginsConfig": {
 		"flow": {
