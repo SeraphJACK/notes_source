@@ -1,8 +1,6 @@
 #!/bin/sh
-
 #Build Gitbook
 gitbook install && gitbook build
-
 #Deploy
 if [ $? -eq 0 ]; then
     rm -rf ../seraphjack.coding.me/chem>/dev/null 2>&1
@@ -15,10 +13,8 @@ if [ $? -eq 0 ]; then
     git add .
     git commit -m"Update">/dev/null
     git push
-
     rm ./_book/deploy.sh>/dev/null
     cp ./_book/* ../seraphjack.coding.me/ -r
-
     cd ../seraphjack.coding.me/
     git pull
     git add .
