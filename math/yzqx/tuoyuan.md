@@ -49,7 +49,7 @@ $$ |PF_1| + |PF_2| = 2a $$
 
 设 $$ PF_1 = x, PF_2 = y $$ 且夹角为 $$ \theta $$ 有
 
-$$ \begin{cases} x+y=2a\\4c^2=x^2+y^2-2xy\cos\theta=(x+y)^2-2xy(1+\cos\theta) $$
+$$ \begin{cases} x+y=2a\\4c^2=x^2+y^2-2xy\cos\theta=(x+y)^2-2xy(1+\cos\theta)\end{cases} $$
 
 $$ \Rightarrow 2b^2=xy(1+\cos\theta) $$
 
