@@ -10,7 +10,8 @@
     "plugins": [
         "katex",
         "splitter",
-        "-sharing"
+        "-sharing",
+        "expandable-chapters"
 	],
 	"pluginsConfig": {
 		"flow": {
