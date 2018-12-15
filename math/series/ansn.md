@@ -9,4 +9,3 @@ $$\begin{cases}a_n=S_n-S_{n-1},n\ge2\\a_1=S_1\end{cases}$$
 $$\begin{cases}a_n=S_n-S_{n-1}\\a_{n+1}=S_{n+1}-S_n\\a_{n-1}=S_{n-1}-S_{n-2}\end{cases}$$
 
 设$$S_n$$为$$b_n$$，则$$S_n \to b_n\to a_n\begin{cases}a_n=S_n-S_{n-1},n\ge2\\a_1=S_1\end{cases}$$
-
