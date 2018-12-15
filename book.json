@@ -11,7 +11,7 @@
         "katex",
         "splitter",
         "expandable-chapters",
-        "anchor-navigation"
+        "anchor-navigation-ex"
 	],
 	"pluginsConfig": {
 		"flow": {
