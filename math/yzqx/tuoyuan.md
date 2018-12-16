@@ -64,7 +64,7 @@ $$ \theta_{max} \to S_{max} \to y_{pmax}$$
 
 当 $$P$$ 与短轴重合时， $$\theta$$ 取最大值。且：
 
-$$\sin\{\frac{\theta_{max}}2}=\frac ac=e$$
+$$\sin{\frac{\theta_{max}}2}=\frac ac=e$$
 
 ### 离心率
 
