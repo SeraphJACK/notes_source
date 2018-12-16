@@ -72,7 +72,7 @@ $$\frac x{\sin \alpha}=\frac y{\sin \beta}=\frac{2c}{\sin\theta}$$
 
 $$\Rightarrow \frac{x+y}{\sin\alpha+\sin\beta}=\frac{2c}{\sin\theta}$$
 
-$$\Rightarrow e=\frac{\sin\theta}{\sin\alpha+\sin\beta}=\frac{\sin{(\alpha+\beta )}{\sin\alpha+\sin\beta}}$$
+$$\Rightarrow e=\frac{\sin\theta}{\sin\alpha+\sin\beta}=\frac{\sin{(\alpha+\beta )}}{\sin\alpha+\sin\beta}$$
 
 ## 椭圆的第二定义
 
