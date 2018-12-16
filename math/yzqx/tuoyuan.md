@@ -46,6 +46,8 @@ $$ \frac{x^2}m+\frac{y^2}n=1,m>0,n>0,m\neq n $$
 
 以椭圆上一点 $$ P $$ 与椭圆两个焦点 $$F_1,F_2$$ 为顶点的三角形，满足如下性质：
 
+### 面积公式
+
 $$ |PF_1| + |PF_2| = 2a $$
 
 设 $$ PF_1 = x, PF_2 = y $$ 且夹角为 $$ \theta $$ 有
@@ -55,3 +57,49 @@ $$ \begin{cases} x+y=2a\\4c^2=x^2+y^2-2xy\cos\theta=(x+y)^2-2xy(1+\cos\theta)\en
 $$ \Rightarrow 2b^2=xy(1+\cos\theta) $$
 
 $$ S_{\triangle PF_1F_2} = \frac12xy\sin\theta = b^2\frac{\sin\theta}{1+\cos\theta}=b^2\cdot\tan{\frac\theta2}=c|y_p| $$
+
+### 角度
+
+$$ \theta_{max} \to S_{max} \to y_{pmax}$$
+
+当 $$P$$ 与短轴重合时， $$\theta$$ 取最大值。且：
+
+$$\sin\{\frac{\theta_{max}}2}=\frac ac=e$$
+
+### 离心率
+
+$$\frac x{\sin \alpha}=\frac y{\sin \beta}=\frac{2c}{\sin\theta}$$
+
+$$\Rightarrow \frac{x+y}{\sin\alpha+\sin\beta}=\frac{2c}{\sin\theta}$$
+
+$$\Rightarrow e=\frac{\sin\theta}{\sin\alpha+\sin\beta}=\frac{\sin{(\alpha+\beta )}{\sin\alpha+\sin\beta}}$$
+
+## 椭圆的第二定义
+
+到定点(焦点)的距离与到定直线(准线)的距离之比为定比 $$ e $$ (离心率)的点的集合是椭圆。
+
+### 焦半径公式
+
+$$ r_{left}=a+ex $$
+
+$$ r_{right}=a-ex $$
+
+$$ r_{up}=a-ey $$
+
+$$ r_{down}=a+ey$$
+
+### 焦点弦比例
+
+若过焦点 $$F$$ 的弦被焦点分为比例为 $$\lambda$$ 的两线段，则：
+
+![](math/yzqx/1.jpg)
+
+如图所示，过 $$A,B$$ 做 $$x$$ 轴平行线交准线于两点，过 $$A$$ 做 $$x$$ 轴的垂线。
+
+设直线倾斜角为 $$\theta$$ ，$$AF=r,BF=\lambda r$$ ，则有：
+
+$$\cos\theta=\frac{b-a}{r+\lambda r}$$
+
+又 $$ a=\frac re,b=\frac{\lambda r}e $$
+
+$$\Rightarrow e\cdot\cos\theta=\frac{1-\lambda}{1+\lambda}$$
