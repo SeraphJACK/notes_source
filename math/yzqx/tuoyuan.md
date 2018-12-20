@@ -7,10 +7,10 @@ $$ \frac{x^2}m+\frac{y^2}n=1,m>0,n>0,m\neq n $$
 ## 分类(焦点所在的轴)
 
 * 焦点在x轴
-  * $$ m>n>0,\begin{cases}m=a^2\\n=b^2\\c=m-n\end{cases} $$
+  * $$ m>n>0,\begin{cases}m=a^2\\n=b^2\\c^2=m-n\end{cases} $$
   * 焦点为 $$ (c,0),(-c,0) $$
 * 焦点在y轴
-  * $$ n>m>0,\begin{cases}n=a^2\\m=b^2\\c=n-m\end{cases} $$
+  * $$ n>m>0,\begin{cases}n=a^2\\m=b^2\\c^2=n-m\end{cases} $$
   * 焦点为 $$ (0,c),(0,-c) $$
 
 ## 椭圆的基本参数
