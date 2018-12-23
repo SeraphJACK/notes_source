@@ -103,3 +103,38 @@ $$\cos\theta=\frac{b-a}{r+\lambda r}$$
 又 $$ a=\frac re,b=\frac{\lambda r}e $$
 
 $$\Rightarrow e\cdot\cos\theta=\frac{1-\lambda}{1+\lambda}$$
+
+### 焦点弦长公式与调和点
+
+$$ r_2=\frac{ep}{1+e\cos\theta} $$
+
+$$ r_1=\frac{ep}{1-e\cos\theta} $$
+
+#### 焦点弦长公式
+
+$$ |AB| = r_1+r_2=\frac{2ep}{1-e^2\cos^2\theta} $$
+
+#### 调和点
+
+$$ \frac1{r_1}+\frac1{r_2}=\frac2{ep} $$
+
+$$ \frac2{\frac1{r_1}+\frac1{r_2}}=ep $$
+
+### 焦半径有关的范围问题
+
+* 用焦半径公式表示为坐标
+* 将问题转变为单一变量(横纵坐标)函数的值域问题
+* 注意 $$ x\in[-a,a] $$
+
+#### 直线与椭圆相交
+
+* 设置直线方程
+    * 过 $$x$$ 轴顶点直线：$$x=ky+m$$
+    * 其他直线：$$y=kx+n$$
+* 讨论 $$k\in\phi$$
+* 连理方程组
+* 弦长问题
+    * $$|AB|=\sqrt{k^2+1}|x_1-x_2|=\cdots=\sqrt{k^2+1}\frac{\sqrt\Delta}{|A|}$$
+* 检验存在性
+    * 如果直线过的顶点在椭圆内部无需检验
+    * $$\Delta>0$$
