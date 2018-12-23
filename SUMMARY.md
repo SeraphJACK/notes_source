@@ -32,4 +32,4 @@
     * 3.2 糖
       * [3.2.1 前置知识](biology/shenghua/pre.md)
       * [3.2.2 糖](biology/shenghua/tang.md)
-      * [3.2.3 生物能学](biology/shenghua/swnx.md)
+    * [3.2.3 生物能学](biology/shenghua/swnx.md)
