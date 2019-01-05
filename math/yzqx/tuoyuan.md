@@ -172,3 +172,17 @@ $$ S=\frac12|AB||CD|\sin\theta $$
 $$ \tan\theta=\left|\frac{k_2-k_1}{k+k_1k_2}\right| $$
 
 $$ \Rightarrow \sin\theta=\frac{|k_2-k_1|}{\sqrt{(k_2-k_1)^2+(1+k_1k_2)^2}} $$
+
+##### 非对称比例
+
+* P在x轴上
+
+$$ \frac{|AP|}{|BP|}=\lambda $$
+
+投影到y轴
+
+$$ \frac{y_1}{y_2}=\pm\lambda $$ (正负号与同侧异侧有关)
+
+* P在y轴上
+
+同理
