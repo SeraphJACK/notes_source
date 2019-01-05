@@ -153,7 +153,7 @@ $$ S_{\triangle ABP}=\frac12|PQ||x_1-x_2|=\frac12|PQ|\cdot\frac{\sqrt \Delta}{|A
 
 * P既不在x轴也不在y轴上
 
-$$ S_{\triangle ABP}=\frac12|AB|\cdot d
+$$ S_{\triangle ABP}=\frac12|AB|\cdot d $$
 
 * 检验存在性(定义域)
     * $$\Delta>0$$
