@@ -138,3 +138,37 @@ $$ \frac2{\frac1{r_1}+\frac1{r_2}}=ep $$
 * 检验存在性
     * 如果直线过的顶点在椭圆内部无需检验
     * $$\Delta>0$$
+
+#### 面积问题
+
+##### 三角形面积 面积分割
+
+* P在x轴上
+
+$$ S_{\triangle ABP}=\frac12|PQ||y_1-y_2|=\frac12|PQ|\cdot\frac{\sqrt \Delta}{|A|} $$
+
+* P在y轴上
+
+$$ S_{\triangleABP}=\frac12|PQ||x_1-x_2|=\frac12|PQ|\cdot\frac{\sqrt \Delta}{|A|} $$
+
+* P既不在x轴也不在y轴上
+
+$$ S_{\triangle ABP}=\frac12|AB|\cdot d
+
+* 检验存在性(定义域)
+    * $$\Delta>0$$
+    * 点在椭圆内部
+
+##### 四边形面积问题
+
+* 对角线垂直
+
+$$ S=\frac12 |AB||CD| $$
+
+* 对角线不垂直
+
+$$ S=\frac12|AB||CD|\sin\theta $$
+
+$$ \tan\theta=\left|\frac{k_2-k_1}{k+k_1k_2}\right| $$
+
+$$ \Rightarrow \sin\theta=\frac{|k_2-k_1|}{\sqrt{(k_2-k_1)^2+(1+k_1k_2)^2}} $$
