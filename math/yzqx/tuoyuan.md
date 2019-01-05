@@ -149,7 +149,7 @@ $$ S_{\triangle ABP}=\frac12|PQ||y_1-y_2|=\frac12|PQ|\cdot\frac{\sqrt \Delta}{|A
 
 * P在y轴上
 
-$$ S_{\triangleABP}=\frac12|PQ||x_1-x_2|=\frac12|PQ|\cdot\frac{\sqrt \Delta}{|A|} $$
+$$ S_{\triangle ABP}=\frac12|PQ||x_1-x_2|=\frac12|PQ|\cdot\frac{\sqrt \Delta}{|A|} $$
 
 * P既不在x轴也不在y轴上
 
