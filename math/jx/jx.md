@@ -5,12 +5,21 @@
 - 同除最高次式
 - 同除最大底数指数式
 - 重要极限
-  - $$\lim_{x\to0}\frac{\sin x}x=1$$
-  - $$\lim_{x\to0}(1+x)^{\frac1x}=e$$
+  $$
+  \lim_{x\to0}\frac{\sin x}x=1
+  $$
+
+  $$
+  \lim_{x\to0}(1+x)^{\frac1x}=e
+  $$
+
+
 
 ## 导数的定义
 
-$$f'(x)=\lim_{\Delta x\to0}\frac{f(x+\Delta x)-f(x)}{\Delta x} = \frac{dy}{dx}$$
+$$
+f'(x)=\lim_{\Delta x\to0}\frac{f(x+\Delta x)-f(x)}{\Delta x} = \frac{dy}{dx}
+$$
 
 ## 导数的计算
 
@@ -19,7 +28,7 @@ $$f'(x)=\lim_{\Delta x\to0}\frac{f(x+\Delta x)-f(x)}{\Delta x} = \frac{dy}{dx}$$
 - $$(x^n)'=n\cdot x^{n-1}$$
 - $$\sin'x=\cos x$$
 - $$\cos'x=-\sin x$$
-- $$(a^x)'=a^x\cdot\ln a$$
+- $$(a^x)'=a^x\cdot\ln a​$$
 - $$(\log_ax)'=\frac1{x\cdot\ln a}$$
 - $$(\ln x)'=\frac1x$$
 
