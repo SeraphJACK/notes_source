@@ -9,7 +9,7 @@ if [ $? -eq 0 ]; then
     rm ../seraphjack.coding.me/index.html>/dev/null 2>&1
     rm ../seraphjack.coding.me/search_index.json>/dev/null 2>&1
     rm ../seraphjack.coding.me/package-lock.json>/dev/null 2>&1
-    git pull
+    git pull -f
     git add .
     git commit -m"Update">/dev/null
     git push
