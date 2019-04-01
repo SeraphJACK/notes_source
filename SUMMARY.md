@@ -36,3 +36,6 @@
       * [3.2.1 前置知识](biology/shenghua/pre.md)
       * [3.2.2 糖](biology/shenghua/tang.md)
     * [3.2.3 生物能学](biology/shenghua/swnx.md)
+  * 3.3 动物学
+    * [3.3.1 按系统分述](biology/dongwu/system.md)
+    * [3.3.2 概括](biology/dongwu/summary.md)
