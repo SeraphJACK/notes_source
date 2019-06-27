@@ -21,6 +21,7 @@
   * 1.5 圆锥曲线
     * [1.5.1 曲线与轨迹](math/yzqx/guiji.md)
     * [1.5.2 椭圆](math/yzqx/tuoyuan.md)
+    * [1.5.3 双曲线](math/yzqx/sqx.md)
   * 1.6 极限和导数
     * [1.6.1 极限](math/jx/jx.md)
 * 2 化学部分
