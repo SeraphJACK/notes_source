@@ -23,7 +23,8 @@
     * [1.5.2 椭圆](math/yzqx/tuoyuan.md)
     * [1.5.3 双曲线](math/yzqx/sqx.md)
   * 1.6 极限和导数
-    * [1.6.1 极限](math/jx/jx.md)
+    * [1.6.1 极限和导数](math/jx/jx.md)
+    * [1.6.2 极值点偏移](math/jx/jzdpy.md)
 * 2 化学部分
   * 2.2 必修2
     * [2.2.3 化学反应速率](chem/bxii/hxfysl.md)
