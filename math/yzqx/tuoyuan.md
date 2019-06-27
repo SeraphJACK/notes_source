@@ -132,7 +132,7 @@ $$ \frac2{\frac1{r_1}+\frac1{r_2}}=ep $$
     * 过 $$x$$ 轴顶点直线：$$x=ky+m$$
     * 其他直线：$$y=kx+n$$
 * 讨论 $$k\in\phi$$
-* 连理方程组
+* 联立方程组
 * 弦长问题
     * $$|AB|=\sqrt{k^2+1}|x_1-x_2|=\cdots=\sqrt{k^2+1}\frac{\sqrt\Delta}{|A|}$$
 * 检验存在性
